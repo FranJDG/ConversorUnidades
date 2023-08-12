@@ -1,4 +1,4 @@
 # ConversorUnidades
 Conversor de unidades de medida
 
-![Conversor de unidades](https://github.com/FranJDG/ConversorUnidades/assets/79667066/2d137971-8868-4fd4-a7b5-251a2bd73a3f)
+https://raw.githubusercontent.com/FranJDG/ConversorUnidades/master/Capturas/Conversor%20de%20unidades.png?token=GHSAT0AAAAAACF7RRD3JJC7AL4WX4BDN3VMZGXPQHQ
